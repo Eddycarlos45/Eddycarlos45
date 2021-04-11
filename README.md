@@ -13,6 +13,7 @@ My name is Edson Sousa, I'm a Software Developer, I've been working as a back-en
   <code><img height="20" src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql"></code>
   <code><img height="20" src="https://img.shields.io/badge/-MySQL-black?style=flat"></code>
     <code><img height="20" src="https://img.shields.io/badge/-MongoDb-007ACC?style=flat&logo=mongodb"></code>
+   <code><img height="20" src="https://img.shields.io/badge/-NestJs-007ACC?style=flat&logo=nestjs"></code>
 </p>
 <br /> 
 
